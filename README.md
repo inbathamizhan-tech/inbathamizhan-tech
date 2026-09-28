@@ -5,7 +5,7 @@
 ### First-year Computer Science Engineering student
 **St. Joseph's College of Engineering · OMR, Chennai**
 
-I’m learning by building — exploring full-stack development, real-time systems, and practical products that solve everyday problems.
+I’m learning by building — exploring full-stack development, real-time systems, maps, and practical products that solve everyday problems.
 
 <p>
   <a href="https://github.com/inbathamizhan-tech"><img src="https://img.shields.io/badge/GitHub-inbathamizhan--tech-181717?style=for-the-badge&logo=github" alt="GitHub profile" /></a>
@@ -28,25 +28,47 @@ I’m learning by building — exploring full-stack development, real-time syste
 
 ### [Live-in-Traffic-analyser](https://github.com/inbathamizhan-tech/Live-in-Traffic-analyser)
 
-A Pan-India real-time traffic monitoring platform for drivers, commuters, and planners.
+**[View the repository →](https://github.com/inbathamizhan-tech/Live-in-Traffic-analyser)**
 
-**Highlights**
+A Pan-India real-time traffic monitoring platform for drivers, commuters, and planners. The project brings live traffic information, incident reporting, and analytics together in a mobile-friendly experience.
 
-- 🗺️ Live traffic maps
-- 🚨 Traffic alerts and incident reports
-- 📊 Traffic analytics
-- 📱 Mobile-friendly experience
-- ⚡ Real-time communication with WebSockets
+#### What it includes
 
-**Technology used**
+- 🗺️ **Live traffic maps** for monitoring road conditions
+- 🚨 **Traffic alerts and incident reports** for commuters and drivers
+- 📊 **Traffic analytics** to help understand traffic patterns
+- 📱 **Responsive, mobile-friendly interface** for on-the-go access
+- ⚡ **Real-time updates** powered by WebSockets
+
+#### Project stack
 
 `Next.js` · `React` · `TypeScript` · `Leaflet / Mapbox` · `Node.js` · `WebSockets` · `PostgreSQL / PostGIS` · `Redis`
 
-## Tech I’m learning and using
+## Current programming languages
+
+These are the programming languages I’m currently using and learning through coursework and projects:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,postgres,redis,git,github&perline=11" alt="Technologies: HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, PostgreSQL, Redis, Git, and GitHub" />
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css&perline=8" alt="JavaScript, TypeScript, HTML, and CSS" />
 </p>
+
+- **JavaScript** — interactive web applications and frontend logic
+- **TypeScript** — typed application development in the traffic analyser
+- **HTML & CSS** — semantic structure, styling, and responsive layouts
+- **SQL** — learning data modelling and querying with PostgreSQL/PostGIS
+
+## Current tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,redis,git,github&perline=8" alt="React, Next.js, Node.js, PostgreSQL, Redis, Git, and GitHub" />
+</p>
+
+| Area | Technologies |
+| --- | --- |
+| Frontend | React, Next.js, responsive interfaces, Leaflet / Mapbox |
+| Backend | Node.js, APIs, WebSockets, server-side application development |
+| Data | PostgreSQL, PostGIS, Redis |
+| Workflow | Git, GitHub, debugging, documentation, and collaboration |
 
 ## My learning focus
 
@@ -75,6 +97,7 @@ I’m always happy to meet fellow students, developers, and builders.
 
 - **LinkedIn:** [in/inbathamizhan-k-2a5712431](https://www.linkedin.com/in/inbathamizhan-k-2a5712431)
 - **GitHub:** [@inbathamizhan-tech](https://github.com/inbathamizhan-tech)
+- **Featured repository:** [Live-in-Traffic-analyser](https://github.com/inbathamizhan-tech/Live-in-Traffic-analyser)
 
 <div align="center">
 
