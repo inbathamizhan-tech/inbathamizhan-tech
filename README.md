@@ -44,16 +44,16 @@ A Pan-India real-time traffic monitoring platform for drivers, commuters, and pl
 
 `Next.js` · `React` · `TypeScript` · `Leaflet / Mapbox` · `Node.js` · `WebSockets` · `PostgreSQL / PostGIS` · `Redis`
 
-## Current programming languages
+## Current programming languages & technologies
 
-These are the programming languages I’m currently using and learning through coursework and projects:
+These are the languages and technologies I’m currently using and learning through coursework and projects:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,html,css&perline=8" alt="JavaScript, TypeScript, HTML, and CSS" />
+  <img src="https://skillicons.dev/icons?i=python,mongodb,html,css&perline=8" alt="Python, MongoDB, HTML, and CSS" />
 </p>
 
-- **JavaScript** — interactive web applications and frontend logic
-- **TypeScript** — typed application development in the traffic analyser
+- **Python** — learning programming fundamentals, automation, and application development
+- **MongoDB** — learning document databases and data modelling
 - **HTML & CSS** — semantic structure, styling, and responsive layouts
 - **SQL** — learning data modelling and querying with PostgreSQL/PostGIS
 
