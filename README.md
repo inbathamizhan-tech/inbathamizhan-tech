@@ -66,7 +66,6 @@ These are the languages and technologies I’m currently using and learning thro
 | Area | Technologies |
 | --- | --- |
 | Frontend | React, Next.js, responsive interfaces, Leaflet / Mapbox |
-| Backend | Node.js, APIs, WebSockets, server-side application development |
 | Data | PostgreSQL, PostGIS, Redis |
 | Workflow | Git, GitHub, debugging, documentation, and collaboration |
 
