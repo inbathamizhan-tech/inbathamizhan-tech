@@ -82,8 +82,8 @@ Foundations     → CSE fundamentals, data structures and problem solving
 ## GitHub activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=inbathamizhan-tech&show_icons=true&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" alt="Inba Thamizhan's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=inbathamizhan-tech&layout=compact&hide_border=true&border_radius=12&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Inba Thamizhan's most-used programming languages" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=inbathamizhan-tech&theme=github_dark" alt="Inba Thamizhan's GitHub statistics" />
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=inbathamizhan-tech&theme=github_dark" alt="Inba Thamizhan's repository languages" />
 </p>
 
 <p align="center">
