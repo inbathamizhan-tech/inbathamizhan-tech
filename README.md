@@ -57,7 +57,7 @@ These are the languages and technologies I’m currently using and learning thro
 - **HTML & CSS** — semantic structure, styling, and responsive layouts
 - **SQL** — learning data modelling and querying with PostgreSQL/PostGIS
 
-## Current tech stack
+## Future Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,postgres,redis,git,github&perline=8" alt="React, Next.js, Node.js, PostgreSQL, Redis, Git, and GitHub" />
