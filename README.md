@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/inbathamizhan-tech/Live-in-Traffic-analyser/main/assets/live-in-traffic-analyser-banner.png" alt="Live-in-Traffic Analyser — real-time traffic monitoring across India" width="100%" />
+</p>
+
 <div align="center">
 
 # Hi, I'm Inba Thamizhan 👋
